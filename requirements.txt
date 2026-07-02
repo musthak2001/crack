@@ -1,0 +1,19 @@
+ultralytics==8.1.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+
+# Agent Orchestration
+langgraph==0.0.15
+typing-extensions>=4.8.0
+
+# Database & Storage
+pyodbc==5.1.0
+azure-storage-blob==12.19.0
+python-dotenv==1.0.1
+
+# Reporting & Export
+fpdf==1.7.2
+
+# User Interface
+streamlit==1.31.0
+watchdog==4.0.0

@@ -1,0 +1,8 @@
+{
+  "name": "Crack Detection & Measurement Analysis",
+  "description": "Multi-agent dashboard powered by Gemini to detect, analyze, and report structural cracks from uploaded ZIP image archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

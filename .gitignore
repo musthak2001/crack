@@ -1,0 +1,9 @@
+venv/
+node_modules/
+.env
+local_inspection.db
+temp_batch/
+dist/
+build/
+__pycache__/
+*.log
